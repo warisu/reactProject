@@ -24,7 +24,7 @@
 .gpt3__navbar-links_container {
     display: flex;
  /* i will comment it out later to see how it works */
-    flex-direction: row;
+    /* flex-direction: row; */
 }
 
 .gpt3__navbar-sign {
